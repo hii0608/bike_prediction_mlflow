@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/models/mlruns/140610077222833894/20d9392f2a254ac38be99987a5d8d669/artifacts
+end_time: 1730628935509
+entry_point_name: ''
+experiment_id: '140610077222833894'
+lifecycle_stage: active
+run_id: 20d9392f2a254ac38be99987a5d8d669
+run_name: clumsy-penguin-69
+run_uuid: 20d9392f2a254ac38be99987a5d8d669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730628913010
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,6 @@
+artifact_location: file:///workspace/models/mlruns/140610077222833894
+creation_time: 1730628668857
+experiment_id: '140610077222833894'
+last_update_time: 1730628668857
+lifecycle_stage: active
+name: bike_prediction_experiment
